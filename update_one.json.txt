@@ -1,0 +1,7 @@
+{
+  "latest_version": "3.0.5",
+  "status": true,
+  "plugin_name": "uni_one",
+  "download_url": "https://www.dropbox.com/scl/fi/voguegvx1by89p0l16d90/uni_one_v3.0.5_official.rbz?rlkey=9ogtv92snfi1nphlrvuade3g1&st=d2mlh6zt&dl=1",
+  "messagebox": ""
+}
